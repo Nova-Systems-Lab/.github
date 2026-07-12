@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NovaSystemsLab/.github/main/profile/assets/nova-systems-lab-horizontal.png"
+  <img src="assets/nova-systems-lab-horizontal.png"
        alt="Nova Systems Lab"
        width="720">
 </p>
