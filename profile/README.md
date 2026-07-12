@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NovaSystemsLab/.github/main/profile/assets/nova-systems-lab-horizontal.png"
+       alt="Nova Systems Lab"
+       width="720">
+</p>
+
 # Nova Systems Lab
 
 Nova Systems Lab is an independent open-source software organization focused on systems tools, developer utilities, platform integration, and experimental runtime technologies.
