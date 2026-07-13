@@ -95,3 +95,8 @@ GitHub remains the official source of truth for:
 * releases
 * development history
 
+## Contact
+
+For organization-related questions that do not belong in GitHub Discussions, Issues, or Discord, contact:
+
+novasystemslab@gmail.com
