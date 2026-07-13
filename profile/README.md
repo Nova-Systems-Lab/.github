@@ -4,6 +4,8 @@
        width="720">
 </p>
 
+[![Discord](https://img.shields.io/discord/1526136220743241909?label=Discord&logo=discord)](https://discord.gg/sfFyVyTfX8)
+
 # Nova Systems Lab
 
 Nova Systems Lab is an independent open-source software organization focused on systems tools, developer utilities, platform integration, and experimental runtime technologies.
@@ -72,6 +74,12 @@ Nova Systems Lab aims to build projects that are:
 - security-aware
 - beginner-friendly
 - useful in real-world workflows
+
+## Join the Community
+
+Join the Nova Systems Lab Discord server to follow development, discuss ideas, test upcoming builds, and connect with contributors.
+
+[Join the Discord Server](https://discord.gg/sfFyVyTfX8)
 
 ## Independence Notice
 
