@@ -75,6 +75,13 @@ Nova Systems Lab aims to build projects that are:
 - beginner-friendly
 - useful in real-world workflows
 
+## Community and Policies
+
+- [Support](https://github.com/Nova-Systems-Lab/.github/blob/main/SUPPORT.md)
+- [Contributing Guidelines](https://github.com/Nova-Systems-Lab/.github/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/Nova-Systems-Lab/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/Nova-Systems-Lab/.github/blob/main/SECURITY.md)
+
 ## Join the Community
 
 Join the Nova Systems Lab Discord server to follow development, discuss ideas, test upcoming builds, and connect with contributors.
