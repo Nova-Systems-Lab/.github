@@ -5,6 +5,7 @@
 </p>
 
 [![Discord](https://img.shields.io/discord/1526136220743241909?label=Discord&logo=discord)](https://discord.gg/sfFyVyTfX8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nova%20Systems%20Lab-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nova-systems-lab/)
 
 # Nova Systems Lab
 
