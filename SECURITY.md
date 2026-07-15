@@ -36,15 +36,20 @@ To report privately:
 4. Choose **Report a vulnerability**.
 5. Provide the requested details.
 
-If private vulnerability reporting is not available, email:
+If private vulnerability reporting is not available, report security concerns privately by email:
 
-novasystemslab@gmail.com
+📧 [security@novasystemslab.org](mailto:security@novasystemslab.org)
 
-Use a clear subject such as:
+Include:
 
-Security Report: [Project Name]
+- the affected project or service
+- a clear description of the issue
+- reproduction steps where safe
+- potential impact
+- relevant versions, commits, or URLs
+- suggested mitigations, if available
 
-Do not send exploit details into a public Discord message.
+Do not include passwords, private keys, access tokens, recovery codes, or unrelated personal information.
 
 ## What to Include
 
