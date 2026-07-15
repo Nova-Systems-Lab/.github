@@ -69,6 +69,14 @@ Example:
 Closes #123
 ```
 
+## Private Support Contact
+
+For private support matters that cannot reasonably be handled through GitHub Discussions, GitHub Issues, or the Nova Systems Lab Discord support panel, contact:
+
+📧 [support@novasystemslab.org](mailto:support@novasystemslab.org)
+
+Please do not send passwords, access tokens, API keys, private keys, recovery codes, or other credentials.
+
 ## Security Vulnerabilities
 
 Do not report security vulnerabilities through public Discord channels, Discussions, or Issues.
