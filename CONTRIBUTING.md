@@ -4,6 +4,8 @@ Thank you for your interest in contributing to Nova Systems Lab.
 
 We welcome contributions from developers, testers, designers, technical writers, students, and community members of all experience levels.
 
+Learn more about Nova Systems Lab and its projects at [novasystemslab.org](https://novasystemslab.org).
+
 ## Before Contributing
 
 Please:
