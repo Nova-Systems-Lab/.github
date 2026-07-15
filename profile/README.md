@@ -4,8 +4,9 @@
        width="720">
 </p>
 
-[![Discord](https://img.shields.io/discord/1526136220743241909?label=Discord&logo=discord)](https://discord.gg/sfFyVyTfX8)
+[![Website](https://img.shields.io/badge/Website-novasystemslab.org-4A90E2?logo=googlechrome&logoColor=white)](https://novasystemslab.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nova%20Systems%20Lab-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nova-systems-lab/)
+[![Discord](https://img.shields.io/discord/1526136220743241909?label=Discord&logo=discord)](https://discord.gg/sfFyVyTfX8)
 
 # Nova Systems Lab
 
@@ -88,6 +89,14 @@ Nova Systems Lab aims to build projects that are:
 Join the Nova Systems Lab Discord server to follow development, discuss ideas, test upcoming builds, and connect with contributors.
 
 [Join the Discord Server](https://discord.gg/sfFyVyTfX8)
+
+## Contact
+
+For general organization enquiries:
+
+📧 [contact@novasystemslab.org](mailto:contact@novasystemslab.org)
+
+For support, security reports, and contribution guidance, please use the appropriate channels described in our [support](../SUPPORT.md), [security](../SECURITY.md), and [contribution](../CONTRIBUTING.md) policies.
 
 ## Independence Notice
 
