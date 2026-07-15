@@ -76,7 +76,7 @@ If you experience or witness unacceptable behaviour:
 2. Save relevant links, screenshots, or message references.
 3. Contact the Nova Systems Lab moderation team privately at:
 
-novasystemslab@gmail.com
+📧 [conduct@novasystemslab.org](mailto:conduct@novasystemslab.org)
 
 4. Provide a clear explanation of what occurred.
 
